@@ -101,7 +101,20 @@ Assessment
 
 The students' grades were based on the following activities:
 
-| - 15% Essay 1{{< br >}}- 15% Essay 2{{< br >}}- 15% Essay 3{{< br >}}- 40% Essay 4 (20%) and oral presentation (20%){{< br >}}- 15% Attendance & Participation{{< br >}} 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+- 15% Essay 1
+- 15% Essay 2
+- 15% Essay 3
+- 40% Essay 4 (20%) and oral presentation (20%)
+- 15% Attendance & Participation
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Rubrics
 
