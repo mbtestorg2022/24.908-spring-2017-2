@@ -27,7 +27,7 @@ Write your linguistic autobiography. In other words, trace the development of yo
 
 What will be most important, in the context of this class on “Creole languages & Caribbean identities”, is for you to identify and share specific details—especially personal and socio-economic factors—that you think may have shaped your language patterns and your and others’ feelings and attitudes toward these patterns. Relevant biographical data may include: place of birth, where you grew up, what language(s) and language attitudes you’ve been exposed to. Please share any relevant events that, as you remember them, may have influenced, or challenged or affirmed, your identity in some decisive or memorable fashion. Since you’re not professional linguists (yet?), it’s perfectly OK to describe patterns in your speech varieties in everyday language, without any linguistic technical terminology. The most important issue here is your own meta-linguistic reflection about your own language patterns, its acceptance (or lack of acceptance) by others, how these patterns have shaped your identity, and so on.
 
-If you feel that you need extra guidance, please look at the guidelines of this somewhat similar assignment from a UC Berkeley class, ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Field Assignment: Linguistic Autobiography or Interview (PDF)](https://web.archive.org/web/20170329061804/http://linguistics.berkeley.edu/~rosemary/55-fall2003-autobiography.pdf)
+If you feel that you need extra guidance, please look at the guidelines of this somewhat similar assignment from a UC Berkeley class, [Field Assignment: Linguistic Autobiography or Interview (PDF)](https://web.archive.org/web/20170329061804/http://linguistics.berkeley.edu/~rosemary/55-fall2003-autobiography.pdf)
 
 And here are some linguistic autobiography examples, in different styles and various lengths. But I think yours will be much more interesting, in light of the discussions that we’ve been having in class:
 
@@ -35,8 +35,8 @@ And here are some linguistic autobiography examples, in different styles and var
 *   Anonymous author. "[Linguistic Autobiography](http://www.angelfire.com/ego/hazi/essays/osu/anth251/lingautobio2.html)."
 *   Chin, Tiffany Y. ["Sociolinguistic Autobiography (PDF)."](http://www.amstarcreative.com/eng/TiffDocs/autobio/sociolinguistic.pdf)
 *   Ritland, Linnea. "[Linguistic Autobiography](https://prezi.com/j1adjzevijud/linguistic-autobiography/)."
-*   Anonymous author. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Linguistic Autobiography (PDF)."](http://campuspress.yale.edu/laurielomask/files/2013/11/Linguistic-autobiography.pdf)
-*   Mallinson, Dr. Christine. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["My Linguistic Autobiography." (PDF)](https://christinemallinson.files.wordpress.com/2010/05/my-linguistic-autobiography.pdf)
+*   Anonymous author. ["Linguistic Autobiography (PDF)."](http://campuspress.yale.edu/laurielomask/files/2013/11/Linguistic-autobiography.pdf)
+*   Mallinson, Dr. Christine. ["My Linguistic Autobiography." (PDF)](https://christinemallinson.files.wordpress.com/2010/05/my-linguistic-autobiography.pdf)
 
 Essay Assignment 2
 ------------------

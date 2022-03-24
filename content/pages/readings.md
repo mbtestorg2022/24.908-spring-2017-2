@@ -116,7 +116,7 @@ Trouillot, Michel-Rolph. "An Unthinkable History: The Haitian Revolution as a No
 {{< tdopen >}}
 
 
-Jenson, Deborah. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Dessalines's American Proclamations of the Haitian Independence." (PDF)](https://dukespace.lib.duke.edu/dspace/bitstream/handle/10161/10394/Jenson%2C%20Dessalines%27s%20American%20Proclamations%20of%20the%20Haitian%20Independence%2C%20Journal%20of%20Haitian%20Studies.pdf?sequence=1). _Journal of Haitian Studies_ 15, no. 1/2 (2009): 72–102.
+Jenson, Deborah. "[Dessalines's American Proclamations of the Haitian Independence." (PDF)](https://dukespace.lib.duke.edu/dspace/bitstream/handle/10161/10394/Jenson%2C%20Dessalines%27s%20American%20Proclamations%20of%20the%20Haitian%20Independence%2C%20Journal%20of%20Haitian%20Studies.pdf?sequence=1). _Journal of Haitian Studies_ 15, no. 1/2 (2009): 72–102.
 
 [Haitian Constitution of 1805](http://faculty.webster.edu/corbetre/haiti/history/earlyhaiti/1805-const.htm)
 
@@ -267,7 +267,7 @@ Schieffelin, Bambi B., and Rachelle Charlier Doucet. "[The "Real" Haitian Creole
 
 DeGraff, Michel, and Molly Ruggles. "[A Creole Solution for Haiti’s Woes](https://www.nytimes.com/2014/08/02/opinion/a-creole-solution-for-haitis-woes.html)," _The New York Times_, August 1, 2014.
 
-DeGraff, Michel. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)“[Linguists’ most dangerous myth: The fallacy of Creole Exceptionalism.” (PDF)](http://lingphil.mit.edu/papers/degraff/degraff2005fallacy_of_creole_exceptionalism.pdf) _Language in Society_ 34 (2005): 533–591.
+DeGraff, Michel. “[Linguists’ most dangerous myth: The fallacy of Creole Exceptionalism.” (PDF)](http://lingphil.mit.edu/papers/degraff/degraff2005fallacy_of_creole_exceptionalism.pdf) _Language in Society_ 34 (2005): 533–591.
 
 ———. “[Linguistic equality is a precondition to political and economic equity](http://bostonreview.net/forum/what-education/michel-degraff-michel-degraff-responds-danielle-allen).” _Boston Review_, May 9, 2016.
 
