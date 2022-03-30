@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ad2b27f5-60b9-e1db-df23-5c6bce654b0c
 resourcetype: Image
 title: video_placeholder.jpg
 uid: f96a93b6-7009-22ea-5d91-32d927fe01c4
